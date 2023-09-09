@@ -1,2 +1,2 @@
-# 3DViewer
-Implementation of 3D-viewer v1.0 in C++.
+# 3DViewer-v2.0
+Implementation of 3D-viewer v2.0 in C++.
